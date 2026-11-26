@@ -1,0 +1,22 @@
+{
+  "upstream": "https://github.com/huggingface/lerobot.git",
+  "base_commit": "eb7a54c6ff4983fc86075442bf4fa61503e7b5d1",
+  "files": {
+    "src/lerobot/cameras/realsense/camera_realsense.py": {
+      "base_sha256": "3272f128e15b67f27f86a92cb812175a674c490391a908acc8cbc61954aff731",
+      "modified_sha256": "0d2550676e550513a4de315f3820b6267f63e187827180719c67108bfe5a6937"
+    },
+    "src/lerobot/cameras/realsense/configuration_realsense.py": {
+      "base_sha256": "d44d5b33571f085be2e8c4e058e104453ee841e3352a8d49faf08099e157285e",
+      "modified_sha256": "3ace191b209fc5264acf04227535e6746c0c5a2183879837d950d49e6465c591"
+    },
+    "src/lerobot/robots/so_follower/so_follower.py": {
+      "base_sha256": "b542340fe13b6f3987caa0fb6366842dd34a9fb8be0264e77d057cb7d4cfff52",
+      "modified_sha256": "232c87b429ef7643d6617d6d6c32c8f6773d22cef54533613ad2e6eddbe20490"
+    },
+    "src/lerobot/utils/feature_utils.py": {
+      "base_sha256": "312ed4eb29fa50f5a3e186e7579ccbf901cc60d2d757f623898b04789c7f2adc",
+      "modified_sha256": "69849cd05a751bdcb448db7c5887d94e717f77a2c9d7e1c3c898a3305a36ce9d"
+    }
+  }
+}

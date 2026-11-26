@@ -1,0 +1,4 @@
+Includes modified files from Hugging Face LeRobot, https://github.com/huggingface/lerobot
+Copyright notices in individual files are retained. Licensed under Apache-2.0; see LICENSE.
+Changes: RGB, numerical depth, and left/right infrared capture from each RealSense;
+SO-101 observation integration and infrared dataset metadata. ACT training changes are excluded.
